@@ -1,0 +1,63 @@
+.jumbotron{
+    /* background-image: url(zak.jpg); */
+    background-size: cover;
+    min-height: 100vh;
+    background-color: rgb(242, 242, 249);
+}
+.navbar {
+  background-color: #251B37;
+}
+.benner {
+  min-height: 90vh;  
+  margin: 0;
+}
+.konten {
+  background-color: rgb(242, 242, 249);
+  background-size: auto;
+}
+.card {
+  background-color: white;
+  align-items: center;
+}
+
+.button {
+  align-items: center;
+}
+.img-kategori {
+  width: 50px;
+}
+.img-kategori:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+.row-kategori {
+  
+  margin: 0;
+  color: black;
+}
+.judul-kategori {
+  padding: 5px 10px;
+}
+.icon-service {
+  width: 80px;
+  height: 80px;
+  border: solid white 2px;
+  border-radius: 50%;
+}
+
+.icon-kategori:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
+.zaskia {
+  background-color: rgb(242, 242, 249);
+}
+.footer {
+  background-color: #251B37;
+  color: white;
+}
+/* cat dog */
+.kia .card {
+  background-color: #EEEEEE;
+}
